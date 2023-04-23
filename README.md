@@ -91,7 +91,7 @@ You can either run your enable_iptv.sh script manually or restart the udm-boot s
 
     systemctl restart udm-boot
 
-# Check if every this is running as it should
+# Check if everything is running as it should
 
 After restarting your network-devices should be up and running.
 
