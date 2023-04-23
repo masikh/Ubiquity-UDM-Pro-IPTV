@@ -113,4 +113,9 @@ bridge interface tying eth10.101 and switch0.101 together.
 Restart your setupbox by actually removing the power and plugging it back in. Your setupbox will boot and acquire an
 IP-address from CaiWay. It might reboot a few times if new firmware has been found, but in the end you can watch tv.
 
-Have fun.
+# Add an extra setupbox
+
+If you have multiple setup-boxes, just add another network port to the VLAN101 port profile, connect your
+setupbox to this newly assigned port and restart your setupbox by actually removing the power and plugging it back in.
+
+Have fun...
