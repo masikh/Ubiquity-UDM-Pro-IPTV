@@ -1,4 +1,4 @@
-# Ubiquity-UDM-Pro-IPTV
+# Ubiquity UDM Pro IPTV with CaiWay internet.
 
 Simple setup for enabling IPTV for CaiWay (Netherlands) on Ubiquity hardware
 
