@@ -1,0 +1,33 @@
+# Pycharm
+.idea
+
+# DB files
+db.sqlite3
+
+# Python cache
+__pycache__
+**/pycache
+
+# Python venv
+venv
+
+# Django migrations
+**/migrations
+
+# VueJS build files
+**/dist
+**/vue_web_code/node_modules
+
+# Temp files
+kladblok.py
+**/kladblok.py
+
+# Environment files (e.g. DB passwords, sensitive data!!!)
+env
+
+# Omit FCM credentials file
+fcm_credentials.json
+
+# Persistent data directory for POSTGRES docker environment
+data
+data/db
